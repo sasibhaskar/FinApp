@@ -1,1 +1,1 @@
-print("Namakara");
+print("Namakara GIT V2");

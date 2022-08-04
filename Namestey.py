@@ -1,1 +1,1 @@
-print("Namestey")
+print("Namestey GIT V2")
